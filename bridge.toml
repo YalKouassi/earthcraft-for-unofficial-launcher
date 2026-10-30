@@ -18,6 +18,7 @@ publisher = "EarthCraft contributors"
 bundle_id = "com.theri.earthcraft"   # upstream's Flatpak and AppStream id
 msi_publisher = "EarthCraft"         # Manufacturer in upstream's MSIs (x64 and arm64)
 website = "https://github.com/therichronicles/EarthCraft"
+web_demo = "https://playground.daijro.dev/head/earthcraft/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#11b8a0"
 
 [icon]
